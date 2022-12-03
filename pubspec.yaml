@@ -1,4 +1,4 @@
-name: time_convertion_ago
+name: time_conversion_ago
 description: A simple package to convert Datetime to ago.
 version: 0.0.1
 homepage: https://github.com/fernandosini/time-conversion-ago
