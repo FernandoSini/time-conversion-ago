@@ -12,7 +12,6 @@ void main() {
       expect(convertion.convertDate(date), convertion.convertDate(date));
       expect(convertion.convertDate(date), convertion.convertDate(date));
       expect(convertion.convertDate(date), convertion.convertDate(date));
-      print(convertion.convertDate(date));
       /* expect(convertion.convertDate(date),
           "${DateTime.now().difference(dateInDays).inDays} days ago"); */
     },
